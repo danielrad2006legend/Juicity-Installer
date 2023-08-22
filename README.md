@@ -1,7 +1,7 @@
 # Juicity-Installer
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/iaghapour/Juicity-Installer/main/juicity-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/danielrad2006legend/Juicity-Installer/main/juicity-installer.sh)
 
 ```
 
